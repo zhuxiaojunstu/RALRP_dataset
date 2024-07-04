@@ -1,5 +1,5 @@
-# RORAL_dataset
-# Reconfiguration Optimization of Reconfigurable Assembly Line Problem Dataset
+# RALRP_dataset
+# Reconfigurable Assembly Line Reconfiguring Problem Dataset
 
 ## Fileformat
 
