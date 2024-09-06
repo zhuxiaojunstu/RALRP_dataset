@@ -3,7 +3,7 @@
 
 ## Fileformat
 
-The reconfiguration optimization of reconfigurable assembly line problem dataset is composed of two files in ".txt" file format.
+The reconfiguration optimization of reconfigurable assembly line problem dataset is composed of one file in ".txt" file format.
 
 “Old Assembly Line” describes the information of the old assembly line.
 The information in each line is as follows：
